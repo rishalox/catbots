@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/itsmebasil0">itsmerishalser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmerishalser" /></p>
 </p>
 
 
@@ -59,10 +59,10 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbots)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmerishalser/Catbots)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
-     </div>
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=
+     </div>https://github.com/rishalox/rishalox.git
 <br>
 <br >
  
@@ -81,7 +81,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone https://github.com/rishalox/rishalox.git
 $ cd catbots
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone https://github.com/rishalox/rishalox.git
 $ cd catbots
 $ chmod +x *
 $ npm i
@@ -112,9 +112,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![itsmerishalser](https://github.com/itsmerishalser.png?size=100)](https://github.com/itsmerishalser) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[RISHALSER](https://github.com/itsmerishalser)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
