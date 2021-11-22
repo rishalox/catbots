@@ -14,11 +14,11 @@
 <a href="#"><img title="RISHALSER" src="https://img.shields.io/badge/RISHALSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
+<a href="https://github.com/itsmerishalser"><img title="Author" src="https://img.shields.io/badge/Author-itsmerishalser-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>u
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmerishalser</a> to make it public
+Project created by <a href="https://github.com/rishalox/catbots.git">itsmerishalser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/itsmebasil0">itsmerishalser</a> t
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmerishalser" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmerishalser&show_icons=true&theme=dark&locale=en" alt="itsmerishalser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmerishalser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerishalser&theme=dark" alt="itsmerishalser" /></p>
 </p>
 
 
