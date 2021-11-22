@@ -61,8 +61,8 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmerishalser/Catbots)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=
-     </div>https://github.com/itsmebasil0/catbots
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template= https://github.com/rishalox/catbots.git
+     </div>https://github.com/rishalox/catbots.git
 <br>
 <br >
  
@@ -81,7 +81,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/itsmebasil0/catbots
+$ git clone https://github.com/rishalox/catbots.git
 $ cd catbots
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/itsmebasil0/catbots
+$ git clone https://github.com/rishalox/catbots.git
 $ cd catbots
 $ chmod +x *
 $ npm i
@@ -112,9 +112,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmerishalser](https://github.com/itsmerishalser.png?size=100)](https://github.com/itsmerishalser) | 
+  [![itsmerishalser](https://github.com/itsmerishalser.png?size=100)](https://github.com/rishalox/catbots.git) | 
 ----|
-[RISHALSER](https://github.com/itsmerishalser)
+[RISHALSER](https://github.com/rishalox/catbots.git
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
