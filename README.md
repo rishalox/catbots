@@ -62,7 +62,7 @@ Click WA logo to Join Support Group 👇
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmerishalser/Catbots)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=
-     </div>https://github.com/rishalox/rishalox.git
+     </div>https://github.com/itsmebasil0/catbots
 <br>
 <br >
  
